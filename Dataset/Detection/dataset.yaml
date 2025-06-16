@@ -1,0 +1,9 @@
+path:
+train:
+
+
+names:
+  0: dish
+  1: tray
+
+nc: 2
