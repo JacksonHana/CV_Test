@@ -1,5 +1,6 @@
-path:
-train:
+path: ../Dataset/Detection
+train: images/train
+val: images/val
 
 
 names:
